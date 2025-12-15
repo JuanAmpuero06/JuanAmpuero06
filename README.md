@@ -8,6 +8,9 @@
   <a href="https://www.linkedin.com/in/juan-ampuero-informatico/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Juan_Ampuero-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+  <a href="./Currículum.pdf" target="_blank">
+  <img src="https://img.shields.io/badge/CV-Descargar_PDF-red?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="download CV"/>
+  </a>
   
 <br><br>
   
