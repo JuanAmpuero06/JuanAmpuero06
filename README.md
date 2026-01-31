@@ -27,9 +27,6 @@
     <img src="https://img.shields.io/badge/Gmail-jampuerohernandez@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 
-  <!-- Profile views counter -->
-  <br><br>
-  <img src="https://komarev.com/ghpvc/?username=JuanAmpuero06&style=for-the-badge&color=blueviolet" alt="Profile Views"/>
 
 </div>
 
@@ -42,7 +39,7 @@ class JuanAmpuero:
     def __init__(self):
         self.role = "Computer Engineer"
         self.location = "Puerto Montt, Chile 🇨🇱"
-        self.languages = ["Spanish (Native)", "English"]
+        self.languages = ["Spanish (Native)", "English (Basic professional)"]
         
     def current_focus(self):
         return ["Full Stack Development", "AI & Machine Learning", "DevOps"]
