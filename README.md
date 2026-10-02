@@ -1,134 +1,196 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Juan%20Ampuero&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=Computer%20Engineer%20%C2%B7%20Puerto%20Montt%2C%20Chile%20%F0%9F%87%A8%F0%9F%87%B1&descAlignY=52&descSize=18" alt="Header de perfil de Juan Ampuero" />
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&width=620&lines=Full+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Building+clean+and+scalable+solutions" alt="Animación de texto con especialidades" />
-  </a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0F172A,100:0284C7&height=190&section=header&text=JUAN%20AMPUERO&fontSize=46&fontColor=FFFFFF&animation=twinkling&fontAlignY=35&desc=Computer%20Engineer%20%7C%20AI%20%7C%20Full%20Stack%20%7C%20Data&descAlignY=60&descSize=18" width="100%"/>
 
-  <p>
-    <b>Construyo soluciones Full Stack con foco en IA aplicada y prácticas DevOps.</b><br/>
-    Me interesa crear software útil, mantenible y orientado a resultados reales.
-  </p>
+<br/>
 
-  <p>
-    <a href="https://www.linkedin.com/in/juan-ampuero-informatico/">
-      <img src="https://img.shields.io/badge/LinkedIn-Juan_Ampuero-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn de Juan Ampuero" />
-    </a>
-    <a href="./Currículum.pdf">
-      <img src="https://img.shields.io/badge/CV-Descargar_PDF-red?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Descargar CV en PDF" />
-    </a>
-    <a href="mailto:jampuerohernandez@gmail.com">
-      <img src="https://img.shields.io/badge/Email-jampuerohernandez%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Enviar correo a Juan Ampuero" />
-    </a>
-  </p>
+<a href="https://readme-typing-svg.demolab.com">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Building+AI-powered+software;Full+Stack+%7C+Machine+Learning;Computer+Vision+%7C+MLOps+%7C+IoT;Turning+ideas+into+real+systems" />
+</a>
+
+<br/><br/>
+
+<a href="https://www.linkedin.com/in/juan-ampuero-informatico/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:jampuerohernandez@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="./Currículum.pdf">
+<img src="https://img.shields.io/badge/CV-Download-111827?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=JuanAmpuero06&style=for-the-badge&color=0284C7&label=PROFILE+VIEWS"/>
+
 </div>
 
 ---
 
-## 👨‍💻 About me
-
-- 🎓 Computer Engineer based in **Puerto Montt, Chile**.
-- 🚀 Motivado por el aprendizaje continuo, la colaboración y el pensamiento crítico.
-- 🔍 Enfoque principal: **Full Stack Development**, **AI & Machine Learning** y **DevOps**.
-- ☕ Fun fact: convierto café en código.
-
-## 🧩 What I build
-
-- Aplicaciones web full stack con APIs robustas y frontends modernos.
-- Flujos de datos y componentes de IA/ML para resolver problemas reales.
-- Entornos de desarrollo y despliegue con buenas prácticas de versionado y automatización.
-
-## 🎯 Current focus
-
-- Escalabilidad y mantenibilidad en aplicaciones web.
-- Integración de modelos de ML en productos de software.
-- Mejora continua de flujos CI/CD y calidad de entrega.
-
-## 🤝 How I work
-
-- Comunicación clara y colaboración activa en equipo.
-- Decisiones técnicas basadas en contexto, impacto y simplicidad.
-- Iteración constante: construir, medir, aprender y mejorar.
-
----
-
-## 🛠️ Tech stack
-
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### AI & Data
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-
-### Web
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-
-### DevOps & Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
----
-
-## 📊 GitHub analytics
+## ⚡ About
 
 <div align="center">
-  <a href="https://github.com/JuanAmpuero06">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=JuanAmpuero06&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6AD3F7&icon_color=6AD3F7&rank_icon=github" alt="Estadísticas generales de GitHub de Juan Ampuero" />
-  </a>
-  <a href="https://github.com/JuanAmpuero06">
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanAmpuero06&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6AD3F7&langs_count=8" alt="Lenguajes más utilizados en GitHub por Juan Ampuero" />
-  </a>
 
-  <img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=JuanAmpuero06&theme=tokyonight&hide_border=true&background=0D1117&ring=6AD3F7&fire=6AD3F7&currStreakLabel=6AD3F7" alt="Racha de contribuciones de Juan Ampuero" />
+**Computer Engineer 🇨🇱 · Puerto Montt, Chile**
 
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=JuanAmpuero06&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6AD3F7&line=6AD3F7&point=FFFFFF" alt="Gráfico de actividad de contribuciones de Juan Ampuero" />
+Building software with **AI, data and modern engineering practices.**
+
+`AI Engineering` · `Full Stack` · `Machine Learning` · `Computer Vision` · `MLOps` · `IoT`
+
 </div>
 
-## 🏆 GitHub trophies
+---
+
+# 🚀 Featured Projects
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JuanAmpuero06&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=7" alt="Trofeos de perfil de GitHub de Juan Ampuero" />
-</div>
 
-> ℹ️ Algunas gráficas dependen de servicios externos y pueden tardar en cargar ocasionalmente.
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+<h3>🌱 AgroPilotAI</h3>
+
+AI-powered precision agriculture platform.
+
+<br/>
+
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
+<img src="https://img.shields.io/badge/AI-0EA5E9?style=flat-square"/>
+<img src="https://img.shields.io/badge/IoT-22C55E?style=flat-square"/>
+<img src="https://img.shields.io/badge/NDVI-16A34A?style=flat-square"/>
+
+<br/><br/>
+
+<a href="https://github.com/JuanAmpuero06/AgroPilotAI">View project →</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>📄 TraductorIA</h3>
+
+Local AI translator for visual documents.
+
+<br/>
+
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Rust-DEA584?style=flat-square&logo=rust&logoColor=black"/>
+<img src="https://img.shields.io/badge/Ollama-111827?style=flat-square"/>
+
+<br/><br/>
+
+<a href="https://github.com/JuanAmpuero06/TraductorIA">View project →</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<h3>🧠 DataAgentAI</h3>
+
+AI agents for intelligent data interaction.
+
+<br/>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Agents-8B5CF6?style=flat-square"/>
+<img src="https://img.shields.io/badge/RAG-EC4899?style=flat-square"/>
+
+<br/><br/>
+
+<a href="https://github.com/JuanAmpuero06/DataAgentAI">View project →</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>🐟 salmon-cv</h3>
+
+Computer Vision + MLOps for underwater video.
+
+<br/>
+
+<img src="https://img.shields.io/badge/YOLO-111827?style=flat-square"/>
+<img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+
+<br/><br/>
+
+<a href="https://github.com/JuanAmpuero06/salmon-cv">View project →</a>
+
+</td>
+
+</tr>
+</table>
+
+</div>
 
 ---
 
-## 📬 Contact
+# 🧰 Tech Stack
 
-- LinkedIn: [juan-ampuero-informatico](https://www.linkedin.com/in/juan-ampuero-informatico/)
-- Email: [jampuerohernandez@gmail.com](mailto:jampuerohernandez@gmail.com)
-- CV: [Descargar Currículum.pdf](./Currículum.pdf)
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,typescript,javascript,kotlin,rust,java&perline=6" />
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=react,tailwind,fastapi,django,nodejs&perline=6" />
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,postgres,mysql,redis&perline=6" />
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=docker,githubactions,git,linux,androidstudio,arduino&perline=6" />
+
+</div>
+
+---
+
+# 📊 GitHub
+
+<div align="center">
+
+<a href="https://github.com/JuanAmpuero06">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=JuanAmpuero06&show_icons=true&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=CBD5E1&count_private=true"/>
+</a>
+
+<a href="https://github.com/JuanAmpuero06">
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanAmpuero06&layout=compact&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=CBD5E1&langs_count=6"/>
+</a>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=JuanAmpuero06&bg_color=0D1117&color=38BDF8&line=0284C7&point=FFFFFF&area=true&hide_border=true" width="92%"/>
+
+</div>
+
+---
+
+# 🏆 Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=JuanAmpuero06&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=7" width="90%"/>
+
+</div>
 
 ---
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JuanAmpuero06/JuanAmpuero06/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JuanAmpuero06/JuanAmpuero06/output/github-snake.svg" />
-    <img src="https://raw.githubusercontent.com/JuanAmpuero06/JuanAmpuero06/output/github-snake.svg" alt="Animación snake de contribuciones de GitHub" />
-  </picture>
-</div>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" alt="Footer decorativo" />
-  <br />
-  ✨ <i>Always learning. Always building.</i> ✨
+<img src="https://raw.githubusercontent.com/JuanAmpuero06/JuanAmpuero06/output/github-contribution-grid-snake-dark.svg" width="95%" />
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0284C7,50:0F172A,100:020617&height=100&section=footer" width="100%"/>
+
 </div>
