@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0F172A,100:0284C7&height=200&section=header&text=Juan%20Ampuero&fontSize=42&fontColor=FFFFFF&animation=twinkling&fontAlignY=38&desc=Ingeniero%20en%20Inform%C3%A1tica%20%7C%20Ciencia%20de%20Datos%20%26%20Desarrollo%20con%20IA&descAlignY=62&descSize=17" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0F172A,100:0284C7&height=200&section=header&text=Juan%20Ampuero&fontSize=42&fontColor=FFFFFF&animation=twinkling&fontAlignY=38&desc=Ingeniero%20en%20Inform%C3%A1tica%20%7C%20Ciencia%20de%20Datos%20y%20Desarrollo%20con%20IA&descAlignY=62&descSize=17" width="100%"/>
 
 <br/>
 
@@ -26,7 +26,7 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=JuanAmpuero06&style=flat-square&color=0284C7&label=VISITAS%20AL%20PERFIL"/>
+<img src="https://komarev.com/ghpvc/?username=JuanAmpuero06&style=flat-square&color=0284C7&label=VISITAS+AL+PERFIL"/>
 
 </div>
 
@@ -34,74 +34,12 @@
 
 ## ⚡ Sobre Mí
 
-Ingeniero en Informática con mención en Ciencia de Datos radicado en **Puerto Montt, Chile** 🇨🇱. 
+Ingeniero en Informática con mención en Ciencia de Datos radicado en **Puerto Montt, Chile** 🇨🇱.
 
 Apasionado por diseñar y construir soluciones tecnológicas de alto impacto que combinan **Inteligencia Artificial, análisis avanzado de datos, automatización de procesos y desarrollo de software moderno**. Me caracterizo por un pensamiento analítico riguroso, una sólida orientación a la resolución de problemas y la capacidad de transformar desafíos de negocio complejos en arquitecturas escalables, robustas y eficientes.
 
 * 🧠 **Áreas de Enfoque:** Inteligencia Artificial Aplicada · Visión por Computador · MLOps · Arquitecturas Móviles (Android Offline-First) · Pipelines ETL & Business Intelligence.
 * 🎯 **Filosofía de Trabajo:** Clean Architecture, patrones de diseño desacoplados, pruebas automatizadas y cultura CI/CD para software preparado para producción.
-
----
-
-## 💼 Experiencia Laboral
-
-### 📱 **Desarrollador Android / Ingeniero de Software** · *Proyecto Independiente*
-`Ene. 2026 – Actualidad` · `Puerto Montt, Chile`
-
-* **Arquitectura & Modularización:** Diseño e implementación de **Clean Architecture + MVVM + UDF** en una estructura multimódulo (*Offline-First*) desacoplando módulos core y features.
-* **Android & Geolocalización:** Interfaces reactivas con **Kotlin** y **Jetpack Compose (Material 3)**, integrando Google Maps API para delimitación satelital de parcelas y cálculo de áreas agrícolas.
-* **Inteligencia Artificial Local:** Integración de **Google Gemini** para asistentes inteligentes por voz y uso de **TensorFlow Lite** para inferencia local de modelos de diagnóstico en el dispositivo.
-* **IoT & Telemetría:** Comunicación bidireccional con microcontroladores **ESP32** mediante protocolo **MQTT** para telemetría ambiental y control de actuadores.
-* **Agricultura de Precisión:** Procesamiento de imágenes satelitales vía APIs de **Sentinel Hub / Copernicus**, generando mapas de índice de vegetación **NDVI**.
-* **Seguridad & Calidad:** Cifrado con **SQLCipher + Room**, protección con **Android Keystore (AES-256-GCM)**, pruebas con **JUnit 4, MockK y Turbine**, y análisis estático con **Detekt** en **GitHub Actions**.
-
-> **Tecnologías:** `Kotlin` · `Jetpack Compose` · `Gemini` · `TensorFlow Lite` · `ESP32` · `MQTT` · `Sentinel Hub` · `Room / SQLCipher` · `CI/CD`
-
----
-
-### 🌐 **Desarrollador Fullstack** · *Proyecto Independiente*
-`Ago. 2025 – Dic. 2025`
-
-* **Automatización de Procesos:** Diseño y desarrollo integral de un sistema de reservas y gestión hotelera, logrando una **reducción del 80% en tareas manuales** y disminuyendo en un **50% los tiempos de gestión operativa**.
-* **Chatbot de Autoservicio:** Implementación de chatbot inteligente para reservas en línea, permitiendo a los huéspedes gestionar solicitudes de forma autónoma 24/7.
-* **Backend & Base de Datos:** Modelado y optimización de base de datos relacional en **PostgreSQL**, autenticación con **JWT**, y arquitectura contenerizada con **Docker** y comunicación en tiempo real con **WebSockets**.
-
-> **Tecnologías:** `React` · `Node.js` · `Express` · `PostgreSQL` · `Docker` · `JWT` · `Tailwind CSS` · `WebSockets`
-
----
-
-### 📊 **Analista de Datos (Práctica Profesional)** · *Diprochil S.A.*
-`Sep. 2025 – Nov. 2025`
-
-* **Auditoría & Análisis de Datos:** Documentación y análisis de la estructura relacional de bases de datos SQL del ERP **Softland**.
-* **Pipelines ETL & Migración:** Diseño y automatización de pipelines **ETL con Python y Apache Airflow** para la migración de datos hacia el ERP **Odoo**, asegurando trazabilidad, integridad y consistencia.
-* **Business Intelligence (BI):** Creación de reportes y cuadros de mando interactivos en **Power BI** para el seguimiento y monitoreo de KPIs operativos y financieros.
-
-> **Tecnologías:** `Python` · `Apache Airflow` · `Power BI` · `PostgreSQL` · `SQL Server` · `Docker` · `Softland ERP` · `Odoo`
-
----
-
-## 🎓 Educación & Certificaciones
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🎓 Formación Académica
-* **Ingeniería en Informática – Mención Ciencia de Datos**  
-  **Duoc UC** (`Mar. 2022 – Dic. 2025`)  
-  *Especialización en análisis estadístico, inteligencia artificial, modelado predictivo, big data, bases de datos y desarrollo de software.*
-
-</td>
-<td width="50%" valign="top">
-
-### 📜 Certificaciones Oficiales
-* ☁️ **Microsoft Certified: Azure Data Fundamentals** (`Ene. 2026`)  
-* 🛡️ **CEHPC: Ethical Hacking Professional Certification** (`Dic. 2025 – Dic. 2028`)  
-
-</td>
-</tr>
-</table>
 
 ---
 
@@ -127,9 +65,9 @@ Plataforma de **agricultura de precisión** orientada a optimizar el rendimiento
 
 <br/>
 
-```
-Kotlin · Jetpack Compose · TFLite · Gemini · ESP32 · Sentinel Hub · CI/CD
-```
+`Kotlin` · `Jetpack Compose` · `TFLite` · `Gemini` · `ESP32` · `Sentinel Hub` · `CI/CD`
+
+<br/>
 
 <a href="https://github.com/JuanAmpuero06/AgroPilotAI">**Ver detalles del proyecto →**</a>
 
@@ -153,9 +91,9 @@ Solución end-to-end de **Visión Artificial y MLOps** para la detección, clasi
 
 <br/>
 
-```
-Python · YOLOv8 · ONNX Runtime · FastAPI · Kedro · MLflow · DVC · Docker
-```
+`Python` · `YOLOv8` · `ONNX Runtime` · `FastAPI` · `Kedro` · `MLflow` · `DVC` · `Docker`
+
+<br/>
 
 <a href="https://github.com/JuanAmpuero06/salmon-cv">**Explorar repositorio en GitHub →**</a>
 
@@ -182,9 +120,9 @@ Sistema **RAG (Retrieval-Augmented Generation) empresarial** diseñado para func
 
 <br/>
 
-```
-Python · FastAPI · Gradio · Qdrant · Ollama · Pytest · Prometheus · Docker
-```
+`Python` · `FastAPI` · `Gradio` · `Qdrant` · `Ollama` · `Pytest` · `Prometheus` · `Docker`
+
+<br/>
 
 <a href="https://github.com/JuanAmpuero06/Rag-Local">**Explorar repositorio en GitHub →**</a>
 
@@ -206,9 +144,9 @@ Conjunto de proyectos enfocados en productividad con modelos locales y agentes a
 
 <br/>
 
-```
-Rust · React · Python · Ollama · LangChain · AI Agents · RAG
-```
+`Rust` · `React` · `Python` · `Ollama` · `LangChain` · `AI Agents` · `RAG`
+
+<br/>
 
 <a href="https://github.com/JuanAmpuero06/TraductorIA">**Ver TraductorIA →**</a> &nbsp;|&nbsp; <a href="https://github.com/JuanAmpuero06/DataAgentAI">**Ver DataAgentAI →**</a>
 
@@ -269,14 +207,5 @@ Rust · React · Python · Ollama · LangChain · AI Agents · RAG
 </td>
 </tr>
 </table>
-
-<br/>
-
-### 🐍 Historial de Contribuciones
-<img src="https://raw.githubusercontent.com/JuanAmpuero06/JuanAmpuero06/output/github-contribution-grid-snake-dark.svg" width="95%" alt="Snake de contribuciones en GitHub" />
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0284C7,50:0F172A,100:020617&height=100&section=footer" width="100%"/>
 
 </div>
