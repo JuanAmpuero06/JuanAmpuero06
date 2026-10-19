@@ -1,12 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0F172A,100:0284C7&height=200&section=header&text=Juan%20Ampuero&fontSize=42&fontColor=FFFFFF&animation=twinkling&fontAlignY=38&desc=Ingeniero%20en%20Inform%C3%A1tica%20%7C%20Ciencia%20de%20Datos%20y%20Desarrollo%20con%20IA&descAlignY=62&descSize=17" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0F172A,100:0284C7&height=220&section=header&text=Juan%20Ampuero&fontSize=44&fontColor=FFFFFF&animation=twinkling&fontAlignY=38&desc=Ingeniero%20en%20Inform%C3%A1tica%20%7C%20Ciencia%20de%20Datos%20y%20Desarrollo%20con%20IA&descAlignY=62&descSize=17" width="100%"/>
 
 <br/>
 
-<a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&pause=1200&color=38BDF8&center=true&vCenter=true&width=720&lines=Ingeniero+en+Inform%C3%A1tica+%7C+Ciencia+de+Datos;Desarrollo+de+Software+con+Inteligencia+Artificial;Computer+Vision+%7C+MLOps+%7C+Pipelines+ETL;Desarrollo+Android+Moderno+%2B+IoT+y+Telemetr%C3%ADa;Creando+soluciones+escalables+y+de+alto+impacto" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&pause=1200&color=38BDF8&center=true&vCenter=true&width=760&lines=Ingeniero+en+Inform%C3%A1tica+%7C+Ciencia+de+Datos;Especialista+en+Computer+Vision+%7C+MLOps+%7C+Pipelines+ETL;Desarrollo+Android+Moderno+%2B+Edge+AI+%2B+IoT;Modelos+Locales+%7C+RAG+Empresarial+%7C+Agentes+IA;Arquitecturas+Limpias%2C+Privadas+y+Escalables" alt="Juan Ampuero - Especialidades" />
 
 <br/><br/>
 
@@ -18,11 +16,11 @@
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 &nbsp;
-<a href="./CV_JuanAmpuero_Hernandez.pdf" target="_blank">
+<a href="https://raw.githubusercontent.com/JuanAmpuero06/JuanAmpuero06/main/CV_JuanAmpuero_Hernandez.pdf" target="_blank">
   <img src="https://img.shields.io/badge/Descargar%20CV-0F172A?style=for-the-badge&logo=adobeacrobatreader&logoColor=38BDF8"/>
 </a>
 &nbsp;
-<img src="https://img.shields.io/badge/Puerto%20Montt-Chile%20🇨🇱-0F172A?style=for-the-badge&logo=googlemaps&logoColor=38BDF8"/>
+<img src="https://img.shields.io/badge/Puerto%20Montt-Chile%20%F0%9F%87%A8%F0%9F%87%B1-0F172A?style=for-the-badge&logo=googlemaps&logoColor=38BDF8"/>
 
 <br/><br/>
 
@@ -32,18 +30,38 @@
 
 ---
 
-## ⚡ Sobre Mí
+### ⚡ Perfil de Especialización
 
-Ingeniero en Informática con mención en Ciencia de Datos radicado en **Puerto Montt, Chile** 🇨🇱.
+<div align="center">
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/Formaci%C3%B3n-Ingenier%C3%ADa%20en%20Inform%C3%A1tica-0284C7?style=flat-square&logo=academia&logoColor=white"/><br/>
+      <sub><b>Mención en Ciencia de Datos</b></sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/Especialidad-IA%20Aplicada%20%26%20MLOps-8B5CF6?style=flat-square&logo=openai&logoColor=white"/><br/>
+      <sub><b>Computer Vision & LLMs</b></sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/Mobile-Android%20Offline--First-22C55E?style=flat-square&logo=android&logoColor=white"/><br/>
+      <sub><b>Compose + TFLite + IoT</b></sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/Arquitectura-Clean%20%26%20CI%2FCD-38BDF8?style=flat-square&logo=fastapi&logoColor=white"/><br/>
+      <sub><b>Producción & Resiliencia</b></sub>
+    </td>
+  </tr>
+</table>
+</div>
 
-Apasionado por diseñar y construir soluciones tecnológicas de alto impacto que combinan **Inteligencia Artificial, análisis avanzado de datos, automatización de procesos y desarrollo de software moderno**. Me caracterizo por un pensamiento analítico riguroso, una sólida orientación a la resolución de problemas y la capacidad de transformar desafíos de negocio complejos en arquitecturas escalables, robustas y eficientes.
-
-* 🧠 **Áreas de Enfoque:** Inteligencia Artificial Aplicada · Visión por Computador · MLOps · Arquitecturas Móviles (Android Offline-First) · Pipelines ETL & Business Intelligence.
-* 🎯 **Filosofía de Trabajo:** Clean Architecture, patrones de diseño desacoplados, pruebas automatizadas y cultura CI/CD para software preparado para producción.
+* 🧠 **Ingeniería e Inteligencia Artificial:** Diseño de sistemas de alto impacto integrando modelos de Deep Learning, visión artificial, LLMs locales y arquitecturas RAG privadas.
+* 📱 **Computación en el Borde & Mobile:** Desarrollo de aplicaciones Android *Offline-First* con Jetpack Compose, inferencia en el dispositivo (TFLite) y telemetría de campo con microcontroladores (ESP32/MQTT).
+* ⚙️ **Cultura de Producción:** Clean Architecture, patrones desacoplados, pipelines MLOps reproducibles (Kedro + MLflow + DVC) y pruebas automatizadas (Pytest).
 
 ---
 
-## 🚀 Proyectos Destacados
+### 🚀 Proyectos Destacados
 
 <div align="center">
 <table>
@@ -53,23 +71,24 @@ Apasionado por diseñar y construir soluciones tecnológicas de alto impacto que
 
 <div align="left">
 
-### 🌱 [AgroPilotAI](https://github.com/JuanAmpuero06/AgroPilotAI)
-![Status](https://img.shields.io/badge/Estado-En%20Desarrollo%20Activo-0284C7?style=flat-square)
+#### 🌱 AgroPilotAI
+<img src="https://img.shields.io/badge/Acceso-Privado%20%7C%20En%20Desarrollo-F59E0B?style=flat-square&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Android-Offline--First-3DDC84?style=flat-square&logo=android&logoColor=white"/>
 
-Plataforma de **agricultura de precisión** orientada a optimizar el rendimiento y supervisión de cultivos agrícolas mediante tecnología móvil, telemetría e IA local.
+Plataforma de **agricultura de precisión** orientada a optimizar el rendimiento y supervisión de cultivos mediante tecnología móvil, telemetría e IA local.
 
 * 🛰️ Procesamiento satelital de mapas **NDVI (Sentinel Hub / Copernicus)**.
 * 🤖 Asistencia inteligente con **Google Gemini** e inferencia local con **TensorFlow Lite**.
 * 📡 Monitoreo IoT en tiempo real vía **ESP32 + MQTT**.
-* 📱 Arquitectura *Offline-First* con **Jetpack Compose** y almacenamiento cifrado (**Room + SQLCipher**).
+* 📱 Almacenamiento cifrado con **Room + SQLCipher** en arquitectura desacoplada.
 
 <br/>
 
-`Kotlin` · `Jetpack Compose` · `TFLite` · `Gemini` · `ESP32` · `Sentinel Hub` · `CI/CD`
+`Kotlin` · `Jetpack Compose` · `TFLite` · `Gemini` · `ESP32` · `MQTT` · `SQLCipher`
 
 <br/>
 
-<a href="https://github.com/JuanAmpuero06/AgroPilotAI">**Ver detalles del proyecto →**</a>
+<sub>🔒 <i>Repositorio privado en desarrollo activo</i></sub>
 
 </div>
 
@@ -79,15 +98,16 @@ Plataforma de **agricultura de precisión** orientada a optimizar el rendimiento
 
 <div align="left">
 
-### 🐟 [salmon-cv](https://github.com/JuanAmpuero06/salmon-cv)
-![Status](https://img.shields.io/badge/C%C3%B3digo-Abierto-22C55E?style=flat-square)
+#### 🐟 [salmon-cv](https://github.com/JuanAmpuero06/salmon-cv)
+<img src="https://img.shields.io/badge/C%C3%B3digo-Abierto-22C55E?style=flat-square&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Visi%C3%B3n%20Artificial-YOLOv8%20%2B%20ONNX-0284C7?style=flat-square&logo=python&logoColor=white"/>
 
-Solución end-to-end de **Visión Artificial y MLOps** para la detección, clasificación y conteo automático de salmones y peces en videos submarinos capturados por la NOAA.
+Pipeline integral de **Visión Artificial y MLOps** para la detección, clasificación y conteo automático de especies de salmón en videos submarinos (NOAA).
 
-* 🎯 Detección de alta precisión entrenada con **YOLOv8** y pipelines reproducibles con **Kedro**.
-* 📈 Trazabilidad y registro de experimentos con **MLflow** y versionado de datasets con **DVC**.
-* ⚡ Microservicio de inferencia de baja latencia con **ONNX Runtime** y panel interactivo con **FastAPI**.
-* 🐳 Despliegue contenerizado y modular con **Docker**.
+* 🎯 Detección de alta precisión entrenada con **YOLOv8** y optimizada con **ONNX Runtime**.
+* 📈 Trazabilidad de experimentos en **MLflow**, datasets en **DVC** y pipelines con **Kedro**.
+* ⚡ Microservicio contenerizado de baja latencia con **FastAPI** y panel de métricas.
+* 🐳 Entorno productivo y modular empaquetado en **Docker**.
 
 <br/>
 
@@ -95,7 +115,7 @@ Solución end-to-end de **Visión Artificial y MLOps** para la detección, clasi
 
 <br/>
 
-<a href="https://github.com/JuanAmpuero06/salmon-cv">**Explorar repositorio en GitHub →**</a>
+<a href="https://github.com/JuanAmpuero06/salmon-cv"><b>Explorar repositorio en GitHub →</b></a>
 
 </div>
 
@@ -108,15 +128,16 @@ Solución end-to-end de **Visión Artificial y MLOps** para la detección, clasi
 
 <div align="left">
 
-### 🧠 [Rag-Local](https://github.com/JuanAmpuero06/Rag-Local)
-![Status](https://img.shields.io/badge/C%C3%B3digo-Abierto-22C55E?style=flat-square)
+#### 🧠 [Rag-Local](https://github.com/JuanAmpuero06/Rag-Local)
+<img src="https://img.shields.io/badge/C%C3%B3digo-Abierto-22C55E?style=flat-square&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Privacidad-100%25%20Local-8B5CF6?style=flat-square&logo=ollama&logoColor=white"/>
 
-Sistema **RAG (Retrieval-Augmented Generation) empresarial** diseñado para funcionar de manera 100% autónoma y privada sobre documentos locales, sin exponer datos a internet.
+Sistema **RAG empresarial** diseñado para operar con autonomía y privacidad absoluta sobre documentación corporativa sin exponer datos a internet.
 
-* 🛡️ Máxima privacidad ejecutando modelos LLM locales mediante **Ollama**.
-* 🏛️ Arquitectura limpia aplicando principios **SOLID** y modularidad estricta.
+* 🛡️ Máxima privacidad con LLMs locales mediante **Ollama** (Zero Data Leak).
+* ⚡ Indexación semántica y base de datos vectorial de alta velocidad con **Qdrant / SQLite**.
 * 🧪 Cobertura exhaustiva de pruebas unitarias y de integración **(>80% con Pytest)**.
-* ⚡ Base de datos vectorial con **Qdrant/SQLite** e interfaces rápidas con **FastAPI + Gradio**.
+* 🚀 Interfaces rápidas y operativas con **FastAPI + Gradio**.
 
 <br/>
 
@@ -124,7 +145,7 @@ Sistema **RAG (Retrieval-Augmented Generation) empresarial** diseñado para func
 
 <br/>
 
-<a href="https://github.com/JuanAmpuero06/Rag-Local">**Explorar repositorio en GitHub →**</a>
+<a href="https://github.com/JuanAmpuero06/Rag-Local"><b>Explorar repositorio en GitHub →</b></a>
 
 </div>
 
@@ -134,21 +155,22 @@ Sistema **RAG (Retrieval-Augmented Generation) empresarial** diseñado para func
 
 <div align="left">
 
-### ⚡ [TraductorIA](https://github.com/JuanAmpuero06/TraductorIA) & [DataAgentAI](https://github.com/JuanAmpuero06/DataAgentAI)
-![Status](https://img.shields.io/badge/Ecosistema-Inteligencia%20Artificial-8B5CF6?style=flat-square)
+#### ⚡ TraductorIA & [DataAgentAI](https://github.com/JuanAmpuero06/DataAgentAI)
+<img src="https://img.shields.io/badge/TraductorIA-Privado%20Desktop-F59E0B?style=flat-square&logo=rust&logoColor=white"/>
+<img src="https://img.shields.io/badge/DataAgentAI-C%C3%B3digo%20Abierto-22C55E?style=flat-square&logo=github&logoColor=white"/>
 
-Conjunto de proyectos enfocados en productividad con modelos locales y agentes autónomos:
+Ecosistema enfocado en productividad inteligente, modelos locales y agentes autónomos:
 
-* 📄 **TraductorIA:** Traductor en tiempo real para documentos de escritorio potenciado por modelos locales para procesar contenido visual sin depender de la nube.
-* 🤖 **DataAgentAI:** Agentes de inteligencia artificial para interacción conversacional, análisis inteligente y consulta de datos estructurados con arquitecturas RAG.
-
-<br/>
-
-`Rust` · `React` · `Python` · `Ollama` · `LangChain` · `AI Agents` · `RAG`
+* 📄 **TraductorIA (Privado):** App desktop nativa en **Rust + Tauri v2** y Python que traduce documentos PDF página a página en tiempo real preservando tipografía y maquetación.
+* 🤖 **DataAgentAI (Público):** Agentes inteligentes con **LangChain** para consulta conversacional y análisis automatizado de datos tabulares con arquitecturas RAG.
 
 <br/>
 
-<a href="https://github.com/JuanAmpuero06/TraductorIA">**Ver TraductorIA →**</a> &nbsp;|&nbsp; <a href="https://github.com/JuanAmpuero06/DataAgentAI">**Ver DataAgentAI →**</a>
+`Rust` · `Tauri v2` · `React` · `Python` · `LangChain` · `Ollama` · `AI Agents`
+
+<br/>
+
+<sub>🔒 <i>TraductorIA (Privado)</i></sub> &nbsp;|&nbsp; <a href="https://github.com/JuanAmpuero06/DataAgentAI"><b>Ver DataAgentAI →</b></a>
 
 </div>
 
@@ -160,26 +182,26 @@ Conjunto de proyectos enfocados en productividad con modelos locales y agentes a
 
 ---
 
-## 🧰 Stack Tecnológico
+### 🧰 Stack Tecnológico
 
 <div align="center">
 
-### Lenguajes de Programación
+#### Lenguajes de Programación
 <p>
   <img src="https://skillicons.dev/icons?i=python,kotlin,rust,ts,js,java,cpp&perline=7" alt="Lenguajes de Programación" />
 </p>
 
-### Inteligencia Artificial, MLOps & Ciencia de Datos
+#### Inteligencia Artificial, MLOps & Ciencia de Datos
 <p>
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,scikitlearn,pandas&perline=5" alt="IA y Ciencia de Datos" />
 </p>
 
-### Desarrollo Web, Backend & Móvil
+#### Desarrollo Móvil, Web & Backend
 <p>
   <img src="https://skillicons.dev/icons?i=androidstudio,fastapi,django,react,nodejs,express,tailwind&perline=7" alt="Desarrollo Web y Móvil" />
 </p>
 
-### Bases de Datos, DevOps & Cloud
+#### Bases de Datos, DevOps & Cloud
 <p>
   <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,redis,docker,githubactions,git,linux,gcp,azure&perline=10" alt="Bases de Datos, DevOps y Cloud" />
 </p>
@@ -188,24 +210,28 @@ Conjunto de proyectos enfocados en productividad con modelos locales y agentes a
 
 ---
 
-## 📊 Métricas & Actividad en GitHub
+### 📊 Métricas & Actividad en GitHub
 
 <div align="center">
 
 <table>
 <tr>
 <td align="center" valign="middle">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=JuanAmpuero06&show_icons=true&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=CBD5E1&count_private=true" alt="Estadísticas de Juan Ampuero en GitHub" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=JuanAmpuero06&show_icons=true&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=CBD5E1&count_private=true" alt="Estadísticas de Juan Ampuero en GitHub" />
 </td>
 <td align="center" valign="middle">
-  <img height="175" src="https://streak-stats.demolab.com/?user=JuanAmpuero06&theme=dark&background=0D1117&border=0D1117&stroke=38BDF8&ring=38BDF8&fire=38BDF8&currStreakNum=38BDF8&sideNums=CBD5E1&sideLabels=CBD5E1&dates=94A3B8&hide_border=true" alt="Racha de contribuciones" />
+  <img height="180" src="https://streak-stats.demolab.com/?user=JuanAmpuero06&theme=dark&background=0D1117&border=0D1117&stroke=38BDF8&ring=38BDF8&fire=38BDF8&currStreakNum=38BDF8&sideNums=CBD5E1&sideLabels=CBD5E1&dates=94A3B8&hide_border=true" alt="Racha de contribuciones" />
 </td>
 </tr>
 <tr>
 <td colspan="2" align="center" valign="middle">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanAmpuero06&layout=compact&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=CBD5E1&langs_count=8&count_private=true" alt="Lenguajes más utilizados" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanAmpuero06&layout=compact&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=CBD5E1&langs_count=8&count_private=true&hide=Jupyter%20Notebook,HTML,CSS,Makefile,Mako" alt="Lenguajes más utilizados" />
 </td>
 </tr>
 </table>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0F172A,100:0284C7&height=90&section=footer" width="100%"/>
 
 </div>
